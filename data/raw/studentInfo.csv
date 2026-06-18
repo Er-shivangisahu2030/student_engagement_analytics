@@ -1,0 +1,201 @@
+id_student,gender,region,highest_education,imd_band,age_band
+1,M,Midlands,A Level,70-80%,0-35
+2,M,Northern Scotland,HE Qualification,20-30%,55<=
+3,M,Wales,Post Graduate Qualification,40-50%,55<=
+4,F,North Eastern,HE Qualification,70-80%,35-55
+5,F,East Midlands,Post Graduate Qualification,40-50%,0-35
+6,F,Southern Scotland,HE Qualification,80-90%,0-35
+7,M,Wales,Lower Than A Level,90-100%,55<=
+8,F,London,Post Graduate Qualification,60-70%,0-35
+9,M,North Eastern,Lower Than A Level,60-70%,0-35
+10,M,Northern Scotland,HE Qualification,30-40%,0-35
+11,F,East Midlands,HE Qualification,80-90%,35-55
+12,M,East Midlands,Post Graduate Qualification,60-70%,0-35
+13,F,London,HE Qualification,0-10%,35-55
+14,F,Midlands,HE Qualification,50-60%,35-55
+15,F,Midlands,HE Qualification,10-20%,35-55
+16,F,East Midlands,HE Qualification,30-40%,35-55
+17,M,South,HE Qualification,60-70%,0-35
+18,F,South,A Level,10-20%,55<=
+19,M,South,HE Qualification,80-90%,0-35
+20,M,East Anglia,A Level,60-70%,0-35
+21,F,East Anglia,Post Graduate Qualification,70-80%,55<=
+22,M,London,A Level,70-80%,55<=
+23,M,East Anglia,Lower Than A Level,40-50%,35-55
+24,M,Southern Scotland,A Level,60-70%,0-35
+25,F,West Midlands,HE Qualification,0-10%,55<=
+26,M,South,A Level,20-30%,35-55
+27,M,London,A Level,20-30%,0-35
+28,M,London,A Level,40-50%,35-55
+29,M,Northern Scotland,Lower Than A Level,80-90%,55<=
+30,M,Southern Scotland,HE Qualification,20-30%,55<=
+31,F,Northern Scotland,A Level,30-40%,0-35
+32,F,Midlands,HE Qualification,40-50%,55<=
+33,M,Wales,A Level,30-40%,0-35
+34,F,Northern Scotland,Lower Than A Level,20-30%,35-55
+35,F,East Midlands,HE Qualification,80-90%,0-35
+36,F,West Midlands,Post Graduate Qualification,30-40%,35-55
+37,F,Wales,Post Graduate Qualification,90-100%,55<=
+38,F,South West,Lower Than A Level,0-10%,0-35
+39,M,Wales,HE Qualification,80-90%,0-35
+40,M,London,Lower Than A Level,50-60%,55<=
+41,M,North Eastern,A Level,20-30%,35-55
+42,F,South,Lower Than A Level,50-60%,0-35
+43,F,East Anglia,HE Qualification,0-10%,35-55
+44,F,West Midlands,HE Qualification,60-70%,35-55
+45,M,East Anglia,A Level,0-10%,0-35
+46,M,East Anglia,HE Qualification,10-20%,35-55
+47,M,North Eastern,Post Graduate Qualification,0-10%,0-35
+48,M,East Midlands,A Level,90-100%,35-55
+49,F,Northern Scotland,Post Graduate Qualification,60-70%,55<=
+50,F,Wales,A Level,50-60%,0-35
+51,F,East Midlands,HE Qualification,50-60%,55<=
+52,M,East Anglia,A Level,50-60%,0-35
+53,M,Midlands,Post Graduate Qualification,30-40%,55<=
+54,F,London,Lower Than A Level,20-30%,55<=
+55,F,South West,A Level,70-80%,55<=
+56,F,South,A Level,80-90%,0-35
+57,F,Northern Scotland,Lower Than A Level,90-100%,55<=
+58,M,West Midlands,Post Graduate Qualification,90-100%,0-35
+59,F,West Midlands,A Level,10-20%,0-35
+60,F,West Midlands,A Level,40-50%,55<=
+61,M,South West,A Level,20-30%,55<=
+62,F,London,Post Graduate Qualification,70-80%,35-55
+63,F,East Anglia,Post Graduate Qualification,30-40%,55<=
+64,M,South,Post Graduate Qualification,50-60%,35-55
+65,M,South West,Lower Than A Level,80-90%,0-35
+66,F,East Midlands,HE Qualification,50-60%,55<=
+67,F,South West,Post Graduate Qualification,0-10%,0-35
+68,F,North Eastern,Post Graduate Qualification,30-40%,55<=
+69,M,East Anglia,Post Graduate Qualification,0-10%,55<=
+70,M,North Western,Lower Than A Level,50-60%,35-55
+71,F,North Western,HE Qualification,20-30%,35-55
+72,F,Wales,Lower Than A Level,10-20%,0-35
+73,F,East Anglia,Post Graduate Qualification,0-10%,0-35
+74,F,London,Post Graduate Qualification,20-30%,0-35
+75,F,East Anglia,Post Graduate Qualification,40-50%,35-55
+76,M,West Midlands,A Level,40-50%,0-35
+77,M,North Eastern,Lower Than A Level,20-30%,0-35
+78,F,North Eastern,Post Graduate Qualification,60-70%,0-35
+79,F,London,Post Graduate Qualification,10-20%,0-35
+80,F,North Western,HE Qualification,20-30%,35-55
+81,F,East Midlands,Post Graduate Qualification,50-60%,55<=
+82,F,Wales,HE Qualification,10-20%,35-55
+83,M,South,A Level,80-90%,55<=
+84,F,Northern Scotland,A Level,90-100%,55<=
+85,F,London,HE Qualification,80-90%,0-35
+86,F,Southern Scotland,Lower Than A Level,80-90%,0-35
+87,F,East Anglia,Post Graduate Qualification,20-30%,55<=
+88,M,West Midlands,HE Qualification,10-20%,55<=
+89,M,North Western,Lower Than A Level,80-90%,35-55
+90,M,North Western,HE Qualification,90-100%,35-55
+91,M,Midlands,HE Qualification,50-60%,55<=
+92,F,Wales,Post Graduate Qualification,40-50%,0-35
+93,F,North Eastern,Post Graduate Qualification,40-50%,55<=
+94,F,North Western,A Level,30-40%,35-55
+95,M,London,Lower Than A Level,70-80%,0-35
+96,F,West Midlands,HE Qualification,20-30%,0-35
+97,F,London,Post Graduate Qualification,90-100%,55<=
+98,F,North Eastern,HE Qualification,40-50%,35-55
+99,M,South West,Post Graduate Qualification,40-50%,0-35
+100,F,Southern Scotland,A Level,10-20%,35-55
+101,F,South West,Post Graduate Qualification,40-50%,0-35
+102,F,Northern Scotland,Post Graduate Qualification,40-50%,35-55
+103,M,Northern Scotland,Lower Than A Level,90-100%,55<=
+104,M,North Western,A Level,40-50%,55<=
+105,M,Midlands,A Level,90-100%,35-55
+106,F,North Eastern,Lower Than A Level,30-40%,0-35
+107,F,North Eastern,Lower Than A Level,90-100%,35-55
+108,F,North Eastern,Post Graduate Qualification,10-20%,55<=
+109,F,Southern Scotland,Lower Than A Level,90-100%,0-35
+110,F,North Eastern,A Level,30-40%,55<=
+111,F,East Anglia,Post Graduate Qualification,30-40%,35-55
+112,M,West Midlands,A Level,0-10%,0-35
+113,M,Wales,A Level,20-30%,0-35
+114,M,South,HE Qualification,10-20%,0-35
+115,M,East Midlands,Lower Than A Level,60-70%,0-35
+116,F,South,A Level,90-100%,35-55
+117,F,East Midlands,Lower Than A Level,80-90%,55<=
+118,F,Southern Scotland,A Level,10-20%,0-35
+119,M,South,Post Graduate Qualification,80-90%,0-35
+120,M,South West,Post Graduate Qualification,90-100%,0-35
+121,M,South,Post Graduate Qualification,20-30%,0-35
+122,M,Midlands,HE Qualification,0-10%,55<=
+123,F,South,Lower Than A Level,40-50%,0-35
+124,M,Northern Scotland,A Level,20-30%,0-35
+125,F,East Anglia,A Level,30-40%,0-35
+126,F,Wales,Lower Than A Level,0-10%,0-35
+127,M,London,Post Graduate Qualification,80-90%,55<=
+128,F,Midlands,Lower Than A Level,90-100%,55<=
+129,F,North Eastern,A Level,20-30%,0-35
+130,F,Wales,A Level,30-40%,0-35
+131,M,South West,Lower Than A Level,40-50%,35-55
+132,F,Northern Scotland,HE Qualification,90-100%,0-35
+133,M,Northern Scotland,A Level,10-20%,55<=
+134,F,South West,HE Qualification,90-100%,0-35
+135,M,North Western,Lower Than A Level,70-80%,35-55
+136,M,East Midlands,Lower Than A Level,90-100%,35-55
+137,M,North Eastern,HE Qualification,20-30%,0-35
+138,M,North Western,Post Graduate Qualification,0-10%,55<=
+139,M,South West,A Level,30-40%,35-55
+140,F,London,A Level,50-60%,55<=
+141,M,Southern Scotland,HE Qualification,20-30%,55<=
+142,F,London,A Level,10-20%,35-55
+143,F,Midlands,Post Graduate Qualification,70-80%,0-35
+144,M,South West,Lower Than A Level,0-10%,55<=
+145,M,West Midlands,HE Qualification,80-90%,55<=
+146,F,East Anglia,A Level,70-80%,0-35
+147,F,North Eastern,HE Qualification,90-100%,0-35
+148,F,North Eastern,Post Graduate Qualification,50-60%,0-35
+149,M,West Midlands,A Level,30-40%,55<=
+150,M,Midlands,A Level,10-20%,55<=
+151,M,East Anglia,HE Qualification,0-10%,0-35
+152,F,North Western,Lower Than A Level,60-70%,0-35
+153,M,West Midlands,HE Qualification,70-80%,35-55
+154,F,South,Post Graduate Qualification,40-50%,35-55
+155,F,Midlands,HE Qualification,70-80%,35-55
+156,F,East Midlands,Post Graduate Qualification,40-50%,0-35
+157,F,Wales,HE Qualification,0-10%,0-35
+158,M,North Eastern,Post Graduate Qualification,20-30%,0-35
+159,F,East Midlands,Lower Than A Level,40-50%,55<=
+160,M,East Midlands,HE Qualification,70-80%,35-55
+161,F,Wales,A Level,40-50%,55<=
+162,F,East Anglia,HE Qualification,0-10%,35-55
+163,F,East Anglia,Lower Than A Level,40-50%,35-55
+164,M,South West,HE Qualification,0-10%,0-35
+165,M,East Midlands,A Level,20-30%,55<=
+166,M,North Eastern,Post Graduate Qualification,60-70%,35-55
+167,F,East Anglia,A Level,40-50%,35-55
+168,M,North Eastern,Lower Than A Level,40-50%,0-35
+169,M,Southern Scotland,HE Qualification,20-30%,0-35
+170,M,South West,HE Qualification,0-10%,55<=
+171,M,Midlands,HE Qualification,0-10%,0-35
+172,F,East Midlands,Post Graduate Qualification,70-80%,55<=
+173,F,Southern Scotland,HE Qualification,50-60%,35-55
+174,M,Wales,HE Qualification,0-10%,35-55
+175,F,North Eastern,HE Qualification,80-90%,0-35
+176,F,Northern Scotland,Lower Than A Level,40-50%,0-35
+177,F,East Midlands,Lower Than A Level,20-30%,55<=
+178,F,West Midlands,HE Qualification,50-60%,35-55
+179,F,East Midlands,HE Qualification,20-30%,55<=
+180,F,Midlands,A Level,50-60%,0-35
+181,F,West Midlands,HE Qualification,60-70%,35-55
+182,M,East Anglia,A Level,30-40%,35-55
+183,F,East Anglia,HE Qualification,0-10%,0-35
+184,F,North Western,A Level,10-20%,0-35
+185,F,Wales,Lower Than A Level,20-30%,55<=
+186,M,Northern Scotland,Lower Than A Level,50-60%,0-35
+187,M,London,Lower Than A Level,10-20%,0-35
+188,F,London,Lower Than A Level,40-50%,0-35
+189,F,West Midlands,HE Qualification,50-60%,0-35
+190,F,East Anglia,A Level,80-90%,35-55
+191,F,East Midlands,A Level,90-100%,0-35
+192,M,South West,HE Qualification,80-90%,55<=
+193,M,North Western,Lower Than A Level,70-80%,35-55
+194,M,East Anglia,HE Qualification,30-40%,0-35
+195,F,East Anglia,Lower Than A Level,30-40%,55<=
+196,M,South,HE Qualification,90-100%,55<=
+197,F,South,HE Qualification,90-100%,35-55
+198,M,South,Lower Than A Level,60-70%,55<=
+199,M,Northern Scotland,HE Qualification,10-20%,35-55
+200,F,London,Lower Than A Level,80-90%,55<=
